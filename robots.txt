@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bucuram.github.io/al-folio/sitemap.xml
+Sitemap: https://bucuram.github.io/sitemap.xml
