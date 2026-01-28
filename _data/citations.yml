@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-28'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Integrating Archaic and Regional Lexicons to Improve the Readability of Old Romanian Texts
     year: '2025'
   TQuQ5IAAAAAJ:IWHjjKOFINEC:
-    citations: 5
+    citations: 6
     title: A Survey on Multilingual Mental Disorders Detection from Social Media Data
     year: '2026'
   TQuQ5IAAAAAJ:IjCSPb-OGe4C:
@@ -58,7 +58,7 @@ papers:
     title: 'UniBuc at SemEval-2024 Task 2: Tailored Prompting with Solar for Clinical NLI'
     year: '2024'
   TQuQ5IAAAAAJ:MXK_kJrjxJIC:
-    citations: 11
+    citations: 12
     title: 'A conversational agent framework for mental health screening: Design, implementation, and usability'
     year: '2025'
   TQuQ5IAAAAAJ:QIV2ME_5wuYC:
@@ -74,7 +74,7 @@ papers:
     title: Computational Approaches to Mental Health Disorders Detection from Social Media Texts, Images and Videos
     year: '2025'
   TQuQ5IAAAAAJ:Se3iqnhoufwC:
-    citations: 68
+    citations: 70
     title: 'It''s Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers'
     year: '2023'
   TQuQ5IAAAAAJ:TQgYirikUcIC:
@@ -110,7 +110,7 @@ papers:
     title: 'Capturing the Dynamics of Mental Well-Being: Adaptive and Maladaptive States in Social Media'
     year: '2025'
   TQuQ5IAAAAAJ:Zph67rFs4hoC:
-    citations: 30
+    citations: 33
     title: 'Reading Between the Frames: Multi-Modal Depression Detection in Videos from Non-Verbal Cues'
     year: '2024'
   TQuQ5IAAAAAJ:_FxGoFyzp5QC:
@@ -130,7 +130,7 @@ papers:
     title: An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
     year: '2021'
   TQuQ5IAAAAAJ:dhFuZR0502QC:
-    citations: 36
+    citations: 37
     title: 'Brighter: Bridging the gap in human-annotated textual emotion recognition datasets for 28 languages'
     year: '2025'
   TQuQ5IAAAAAJ:eQOLeE2rZwMC:
@@ -166,7 +166,7 @@ papers:
     title: Detecting Early Onset of Depression from Social Media Text using Learned Confidence Scores
     year: '2020'
   TQuQ5IAAAAAJ:ufrVoPGSRksC:
-    citations: 15
+    citations: 16
     title: An End-to-End Set Transformer for User-Level Classification of Depression and Gambling Disorder
     year: '2022'
   TQuQ5IAAAAAJ:zYLM7Y9cAGgC:
