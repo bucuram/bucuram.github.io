@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-officially-a-postdoctoral-researcher-at-idsia-usi",
           title: '👩🏻‍💻 I am officially a Postdoctoral Researcher at IDSIA-USI!',
           description: "",
+          section: "News",},{id: "news-i-am-glad-to-share-that-i-have-two-papers-accepted-at-eacl-a-survey-on-multilingual-mental-disorders-detection-from-social-media-data-and-large-language-models-for-mental-health-a-multilingual-evaluation-see-you-in-morocco",
+          title: '🌍 I am glad to share that I have two papers accepted at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
