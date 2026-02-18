@@ -1,20 +1,24 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-18'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Computational Approaches to Mental Illnesses Detection
     year: '2022'
   TQuQ5IAAAAAJ:3fE2CSJIrl8C:
-    citations: 18
+    citations: 21
     title: Utilizing ChatGPT Generated Data to Retrieve Depression Symptoms from Social Media
     year: '2023'
   TQuQ5IAAAAAJ:4DMP91E08xMC:
-    citations: 13
+    citations: 14
     title: Leveraging LLM-generated data for detecting depression symptoms on social media
     year: '2024'
+  TQuQ5IAAAAAJ:4JMBOYKVnBMC:
+    citations: 0
+    title: 'Large Language Models for Mental Health: A Multilingual Evaluation'
+    year: '2026'
   TQuQ5IAAAAAJ:4TOpqqG69KYC:
-    citations: 11
+    citations: 12
     title: 'MentalHelp: A Multi-Task Dataset for Mental Health in Social Media'
     year: '2024'
   TQuQ5IAAAAAJ:8k81kl-MbHgC:
@@ -26,7 +30,7 @@ papers:
     title: On the Categorization of Corporate Multimodal Disinformation with Large Language Models
     year: '2024'
   TQuQ5IAAAAAJ:9yKSN-GCB0IC:
-    citations: 64
+    citations: 67
     title: Early Risk Detection of Pathological Gambling, Self-Harm and Depression Using BERT
     year: '2021'
   TQuQ5IAAAAAJ:HDshCWvjkbEC:
@@ -34,11 +38,11 @@ papers:
     title: Integrating Archaic and Regional Lexicons to Improve the Readability of Old Romanian Texts
     year: '2025'
   TQuQ5IAAAAAJ:IWHjjKOFINEC:
-    citations: 6
+    citations: 7
     title: A Survey on Multilingual Mental Disorders Detection from Social Media Data
     year: '2026'
   TQuQ5IAAAAAJ:IjCSPb-OGe4C:
-    citations: 21
+    citations: 22
     title: A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media
     year: '2021'
   TQuQ5IAAAAAJ:KlAtU1dfN6UC:
@@ -62,11 +66,11 @@ papers:
     title: 'A conversational agent framework for mental health screening: Design, implementation, and usability'
     year: '2025'
   TQuQ5IAAAAAJ:QIV2ME_5wuYC:
-    citations: 7
+    citations: 8
     title: 'On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook'
     year: '2025'
   TQuQ5IAAAAAJ:R3hNpaxXUhUC:
-    citations: 1
+    citations: 2
     title: 'Assessing Critical Thinking Components in Romanian Secondary School Textbooks: A Data Mining Approach to the ROTEX Corpus'
     year: '2025'
   TQuQ5IAAAAAJ:RHpTSmoSYBkC:
@@ -74,7 +78,7 @@ papers:
     title: Computational Approaches to Mental Health Disorders Detection from Social Media Texts, Images and Videos
     year: '2025'
   TQuQ5IAAAAAJ:Se3iqnhoufwC:
-    citations: 70
+    citations: 71
     title: 'It''s Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers'
     year: '2023'
   TQuQ5IAAAAAJ:TQgYirikUcIC:
@@ -86,7 +90,7 @@ papers:
     title: 'Natural language processing as a tool to identify the Reddit particularities of cancer survivors around the time of diagnosis and remission: A pilot study'
     year: '2021'
   TQuQ5IAAAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 3
     title: Challenges in Compiling Expert Corpora for Academic Writing Support
     year: '2021'
   TQuQ5IAAAAAJ:WF5omc3nYNoC:
@@ -98,11 +102,11 @@ papers:
     title: 'RoMath: A Mathematical Reasoning Benchmark in Romanian'
     year: '2025'
   TQuQ5IAAAAAJ:Y0pCki6q_DkC:
-    citations: 15
+    citations: 16
     title: 'BLUE at Memotion 2.0 2022: You have my Image, my Text and my Transformer'
     year: '2022'
   TQuQ5IAAAAAJ:YOwf2qJgpHMC:
-    citations: 1
+    citations: 2
     title: 'Vanishing Boundaries: A Unifying Account of Multidimensional Emotion Dynamics and Alterations in Depression'
     year: '2024'
   TQuQ5IAAAAAJ:ZeXyd9-uunAC:
@@ -110,7 +114,7 @@ papers:
     title: 'Capturing the Dynamics of Mental Well-Being: Adaptive and Maladaptive States in Social Media'
     year: '2025'
   TQuQ5IAAAAAJ:Zph67rFs4hoC:
-    citations: 33
+    citations: 32
     title: 'Reading Between the Frames: Multi-Modal Depression Detection in Videos from Non-Verbal Cues'
     year: '2024'
   TQuQ5IAAAAAJ:_FxGoFyzp5QC:
@@ -118,27 +122,31 @@ papers:
     title: 'Users Hate Blondes: Detecting Sexism in User Comments on Online Romanian News'
     year: '2022'
   TQuQ5IAAAAAJ:_kc_bZDykSQC:
-    citations: 13
+    citations: 14
     title: 'Archetypes and Entropy: Theory-Driven Extraction of Evidence for Suicide Risk'
     year: '2024'
   TQuQ5IAAAAAJ:aqlVkmm33-oC:
-    citations: 0
+    citations: 1
     title: Towards a Romanian phrasal academic lexicon
     year: '2024'
   TQuQ5IAAAAAJ:d1gkVwhDpl0C:
-    citations: 31
+    citations: 30
     title: An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
     year: '2021'
   TQuQ5IAAAAAJ:dhFuZR0502QC:
-    citations: 37
+    citations: 41
     title: 'Brighter: Bridging the gap in human-annotated textual emotion recognition datasets for 28 languages'
     year: '2025'
   TQuQ5IAAAAAJ:eQOLeE2rZwMC:
     citations: 7
     title: 'Life is not Always Depressing: Exploring the Happy Moments of People Diagnosed with Depression'
     year: '2022'
+  TQuQ5IAAAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: "The \u2018Growth\u2019of Academic Phrases: A Contrastive Corpus-Based Study on Phraseological Complexity in Romanian Learner English"
+    year: '2026'
   TQuQ5IAAAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 5
     title: 'Automatic Extraction of the Romanian Academic Word List: Data and Methods'
     year: '2023'
   TQuQ5IAAAAAJ:mB3voiENLucC:
@@ -158,7 +166,7 @@ papers:
     title: The Expression of Happiness in Social Media of Individuals Reporting Depression
     year: '2025'
   TQuQ5IAAAAAJ:roLk4NBRz8UC:
-    citations: 4
+    citations: 5
     title: 'Phraseology in Romanian Academic Writing: Corpus Based Explorations into Field-Specific Multiword Units'
     year: '2022'
   TQuQ5IAAAAAJ:u-x6o8ySG0sC:
@@ -166,7 +174,7 @@ papers:
     title: Detecting Early Onset of Depression from Social Media Text using Learned Confidence Scores
     year: '2020'
   TQuQ5IAAAAAJ:ufrVoPGSRksC:
-    citations: 15
+    citations: 16
     title: An End-to-End Set Transformer for User-Level Classification of Depression and Gambling Disorder
     year: '2022'
   TQuQ5IAAAAAJ:zYLM7Y9cAGgC:
