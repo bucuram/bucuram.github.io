@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-20'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Computational Approaches to Mental Illnesses Detection
     year: '2022'
   TQuQ5IAAAAAJ:3fE2CSJIrl8C:
-    citations: 21
+    citations: 22
     title: Utilizing ChatGPT Generated Data to Retrieve Depression Symptoms from Social Media
     year: '2023'
   TQuQ5IAAAAAJ:4DMP91E08xMC:
-    citations: 14
+    citations: 15
     title: Leveraging LLM-generated data for detecting depression symptoms on social media
     year: '2024'
   TQuQ5IAAAAAJ:4JMBOYKVnBMC:
@@ -66,7 +66,7 @@ papers:
     title: 'A conversational agent framework for mental health screening: Design, implementation, and usability'
     year: '2025'
   TQuQ5IAAAAAJ:QIV2ME_5wuYC:
-    citations: 8
+    citations: 9
     title: 'On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook'
     year: '2025'
   TQuQ5IAAAAAJ:R3hNpaxXUhUC:
