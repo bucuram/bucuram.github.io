@@ -28,6 +28,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-glad-to-share-that-we-have-two-papers-accepted-at-eacl-a-survey-on-multilingual-mental-disorders-detection-from-social-media-data-and-large-language-models-for-mental-health-a-multilingual-evaluation-see-you-in-morocco",
           title: '🌍 I am glad to share that we have two papers accepted at...',
           description: "",
+          section: "News",},{id: "news-i-am-happy-to-share-that-we-have-four-papers-accepted-at-lrec-assessing-the-effectiveness-of-llms-in-delivering-cognitive-behavioral-therapy-psihoro-depression-and-anxiety-romanian-text-corpus-the-spectrum-of-sentiment-optimistic-pessimistic-and-neutral-voices-in-online-depression-discourse-and-mental-health-disorder-detection-beyond-social-media-a-systematic-review-of-available-datasets-see-you-in-palma",
+          title: '📝 I am happy to share that we have four papers accepted at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
