@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-01'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: 'MentalHelp: A Multi-Task Dataset for Mental Health in Social Media'
     year: '2024'
   TQuQ5IAAAAAJ:8k81kl-MbHgC:
-    citations: 15
+    citations: 16
     title: 'Mental health at different stages of cancer survival: A natural language processing study of Reddit posts'
     year: '2023'
   TQuQ5IAAAAAJ:9ZlFYXVOiuMC:
@@ -30,7 +30,7 @@ papers:
     title: On the Categorization of Corporate Multimodal Disinformation with Large Language Models
     year: '2024'
   TQuQ5IAAAAAJ:9yKSN-GCB0IC:
-    citations: 68
+    citations: 69
     title: Early Risk Detection of Pathological Gambling, Self-Harm and Depression Using BERT
     year: '2021'
   TQuQ5IAAAAAJ:HDshCWvjkbEC:
@@ -38,7 +38,7 @@ papers:
     title: Integrating Archaic and Regional Lexicons to Improve the Readability of Old Romanian Texts
     year: '2025'
   TQuQ5IAAAAAJ:IWHjjKOFINEC:
-    citations: 11
+    citations: 10
     title: A Survey on Multilingual Mental Disorders Detection from Social Media Data
     year: '2026'
   TQuQ5IAAAAAJ:IjCSPb-OGe4C:
@@ -66,7 +66,7 @@ papers:
     title: 'A conversational agent framework for mental health screening: Design, implementation, and usability'
     year: '2025'
   TQuQ5IAAAAAJ:QIV2ME_5wuYC:
-    citations: 11
+    citations: 13
     title: 'On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook'
     year: '2025'
   TQuQ5IAAAAAJ:R3hNpaxXUhUC:
@@ -78,9 +78,13 @@ papers:
     title: Computational Approaches to Mental Health Disorders Detection from Social Media Texts, Images and Videos
     year: '2025'
   TQuQ5IAAAAAJ:Se3iqnhoufwC:
-    citations: 74
+    citations: 75
     title: 'It''s Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers'
     year: '2023'
+  TQuQ5IAAAAAJ:TFP_iSt0sucC:
+    citations: 0
+    title: Computational Approaches to Mental Health Disorders Detection from Social Media Texts, Images and Videos
+    year: '2026'
   TQuQ5IAAAAAJ:TQgYirikUcIC:
     citations: 0
     title: Emotion Preservation in Romanian-English Automatic Translations
@@ -122,7 +126,7 @@ papers:
     title: 'Users Hate Blondes: Detecting Sexism in User Comments on Online Romanian News'
     year: '2022'
   TQuQ5IAAAAAJ:_kc_bZDykSQC:
-    citations: 17
+    citations: 18
     title: 'Archetypes and Entropy: Theory-Driven Extraction of Evidence for Suicide Risk'
     year: '2024'
   TQuQ5IAAAAAJ:aqlVkmm33-oC:
@@ -166,7 +170,7 @@ papers:
     title: 'Revisiting the Semantic Severity of Anxiety and Depression: Computational Linguistic Study of Normalization and Pathologization'
     year: '2025'
   TQuQ5IAAAAAJ:qxL8FJ1GzNcC:
-    citations: 5
+    citations: 6
     title: The Expression of Happiness in Social Media of Individuals Reporting Depression
     year: '2025'
   TQuQ5IAAAAAJ:r0BpntZqJG4C:
