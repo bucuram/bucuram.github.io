@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-11'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media
     year: '2021'
   TQuQ5IAAAAAJ:KlAtU1dfN6UC:
-    citations: 10
+    citations: 12
     title: 'Screening for common mental health disorders: a psychometric evaluation of a chatbot system'
     year: '2025'
   TQuQ5IAAAAAJ:L8Ckcad2t8MC:
@@ -138,7 +138,7 @@ papers:
     title: An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
     year: '2021'
   TQuQ5IAAAAAJ:dhFuZR0502QC:
-    citations: 45
+    citations: 46
     title: 'Brighter: Bridging the gap in human-annotated textual emotion recognition datasets for 28 languages'
     year: '2025'
   TQuQ5IAAAAAJ:eQOLeE2rZwMC:
