@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-13'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: Utilizing ChatGPT Generated Data to Retrieve Depression Symptoms from Social Media
     year: '2023'
   TQuQ5IAAAAAJ:4DMP91E08xMC:
-    citations: 16
+    citations: 17
     title: Leveraging LLM-generated data for detecting depression symptoms on social media
     year: '2024'
   TQuQ5IAAAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: 'Large Language Models for Mental Health: A Multilingual Evaluation'
     year: '2026'
   TQuQ5IAAAAAJ:4TOpqqG69KYC:
@@ -78,13 +78,9 @@ papers:
     title: Computational Approaches to Mental Health Disorders Detection from Social Media Texts, Images and Videos
     year: '2025'
   TQuQ5IAAAAAJ:Se3iqnhoufwC:
-    citations: 75
+    citations: 76
     title: 'It''s Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers'
     year: '2023'
-  TQuQ5IAAAAAJ:TFP_iSt0sucC:
-    citations: 0
-    title: Computational Approaches to Mental Health Disorders Detection from Social Media Texts, Images and Videos
-    year: '2026'
   TQuQ5IAAAAAJ:TQgYirikUcIC:
     citations: 0
     title: Emotion Preservation in Romanian-English Automatic Translations
@@ -138,7 +134,7 @@ papers:
     title: An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
     year: '2021'
   TQuQ5IAAAAAJ:dhFuZR0502QC:
-    citations: 46
+    citations: 47
     title: 'Brighter: Bridging the gap in human-annotated textual emotion recognition datasets for 28 languages'
     year: '2025'
   TQuQ5IAAAAAJ:eQOLeE2rZwMC:
