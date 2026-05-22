@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-22'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -78,7 +78,7 @@ papers:
     title: Computational Approaches to Mental Health Disorders Detection from Social Media Texts, Images and Videos
     year: '2025'
   TQuQ5IAAAAAJ:Se3iqnhoufwC:
-    citations: 76
+    citations: 77
     title: 'It''s Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers'
     year: '2023'
   TQuQ5IAAAAAJ:TQgYirikUcIC:
@@ -114,7 +114,7 @@ papers:
     title: 'Capturing the Dynamics of Mental Well-Being: Adaptive and Maladaptive States in Social Media'
     year: '2025'
   TQuQ5IAAAAAJ:Zph67rFs4hoC:
-    citations: 34
+    citations: 35
     title: 'Reading Between the Frames: Multi-Modal Depression Detection in Videos from Non-Verbal Cues'
     year: '2024'
   TQuQ5IAAAAAJ:_FxGoFyzp5QC:
@@ -134,7 +134,7 @@ papers:
     title: An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
     year: '2021'
   TQuQ5IAAAAAJ:dhFuZR0502QC:
-    citations: 47
+    citations: 51
     title: 'Brighter: Bridging the gap in human-annotated textual emotion recognition datasets for 28 languages'
     year: '2025'
   TQuQ5IAAAAAJ:eQOLeE2rZwMC:
