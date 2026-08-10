@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: Leveraging LLM-generated data for detecting depression symptoms on social media
     year: '2024'
   TQuQ5IAAAAAJ:4JMBOYKVnBMC:
-    citations: 5
+    citations: 6
     title: 'Large Language Models for Mental Health: A Multilingual Evaluation'
     year: '2026'
   TQuQ5IAAAAAJ:4TOpqqG69KYC:
-    citations: 24
+    citations: 25
     title: 'MentalHelp: A Multi-Task Dataset for Mental Health in Social Media'
     year: '2024'
   TQuQ5IAAAAAJ:8k81kl-MbHgC:
@@ -42,7 +42,7 @@ papers:
     title: A Survey on Multilingual Mental Disorders Detection from Social Media Data
     year: '2026'
   TQuQ5IAAAAAJ:IjCSPb-OGe4C:
-    citations: 25
+    citations: 26
     title: A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media
     year: '2021'
   TQuQ5IAAAAAJ:KlAtU1dfN6UC:
@@ -58,7 +58,7 @@ papers:
     title: EXPRES Corpus for A Field-specific Automated Exploratory Study of L2 English Expert Scientific Writing
     year: '2022'
   TQuQ5IAAAAAJ:M3ejUd6NZC8C:
-    citations: 0
+    citations: 1
     title: 'UniBuc at SemEval-2024 Task 2: Tailored Prompting with Solar for Clinical NLI'
     year: '2024'
   TQuQ5IAAAAAJ:MXK_kJrjxJIC:
@@ -66,7 +66,7 @@ papers:
     title: 'A conversational agent framework for mental health screening: Design, implementation, and usability'
     year: '2025'
   TQuQ5IAAAAAJ:QIV2ME_5wuYC:
-    citations: 19
+    citations: 23
     title: 'On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook'
     year: '2025'
   TQuQ5IAAAAAJ:R3hNpaxXUhUC:
@@ -98,7 +98,7 @@ papers:
     title: Capturing Changes in Mood Over Time in Longitudinal Data Using Ensemble Methodologies
     year: '2022'
   TQuQ5IAAAAAJ:Wp0gIr-vW9MC:
-    citations: 4
+    citations: 5
     title: 'RoMath: A Mathematical Reasoning Benchmark in Romanian'
     year: '2025'
   TQuQ5IAAAAAJ:Y0pCki6q_DkC:
@@ -141,6 +141,10 @@ papers:
     citations: 7
     title: 'Life is not Always Depressing: Exploring the Happy Moments of People Diagnosed with Depression'
     year: '2022'
+  TQuQ5IAAAAAJ:hMod-77fHWUC:
+    citations: 0
+    title: 'The Spectrum of Sentiment: Optimistic, Pessimistic, and Neutral Voices in Online Depression Discourse'
+    year: '2026'
   TQuQ5IAAAAAJ:iH-uZ7U-co4C:
     citations: 0
     title: 'PsihoRo: Depression and Anxiety Romanian Text Corpus'
