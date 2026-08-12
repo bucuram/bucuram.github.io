@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-12'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -66,7 +66,7 @@ papers:
     title: 'A conversational agent framework for mental health screening: Design, implementation, and usability'
     year: '2025'
   TQuQ5IAAAAAJ:QIV2ME_5wuYC:
-    citations: 23
+    citations: 24
     title: 'On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook'
     year: '2025'
   TQuQ5IAAAAAJ:R3hNpaxXUhUC:
@@ -114,7 +114,7 @@ papers:
     title: 'Capturing the Dynamics of Mental Well-Being: Adaptive and Maladaptive States in Social Media'
     year: '2025'
   TQuQ5IAAAAAJ:Zph67rFs4hoC:
-    citations: 44
+    citations: 45
     title: 'Reading Between the Frames: Multi-Modal Depression Detection in Videos from Non-Verbal Cues'
     year: '2024'
   TQuQ5IAAAAAJ:_FxGoFyzp5QC:
@@ -122,7 +122,7 @@ papers:
     title: 'Users Hate Blondes: Detecting Sexism in User Comments on Online Romanian News'
     year: '2022'
   TQuQ5IAAAAAJ:_kc_bZDykSQC:
-    citations: 22
+    citations: 23
     title: 'Archetypes and Entropy: Theory-Driven Extraction of Evidence for Suicide Risk'
     year: '2024'
   TQuQ5IAAAAAJ:aqlVkmm33-oC:
@@ -148,10 +148,6 @@ papers:
   TQuQ5IAAAAAJ:iH-uZ7U-co4C:
     citations: 0
     title: 'PsihoRo: Depression and Anxiety Romanian Text Corpus'
-    year: '2026'
-  TQuQ5IAAAAAJ:isC4tDSrTZIC:
-    citations: 0
-    title: 'The Spectrum of Sentiment: Optimistic, Pessimistic, and Neutral Voices in Online Depression Discourse'
     year: '2026'
   TQuQ5IAAAAAJ:j3f4tGmQtD8C:
     citations: 0
