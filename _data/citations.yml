@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-02'
 papers:
   TQuQ5IAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'Large Language Models for Mental Health: A Multilingual Evaluation'
     year: '2026'
   TQuQ5IAAAAAJ:4TOpqqG69KYC:
-    citations: 26
+    citations: 27
     title: 'MentalHelp: A Multi-Task Dataset for Mental Health in Social Media'
     year: '2024'
   TQuQ5IAAAAAJ:8k81kl-MbHgC:
@@ -38,11 +38,11 @@ papers:
     title: Integrating Archaic and Regional Lexicons to Improve the Readability of Old Romanian Texts
     year: '2025'
   TQuQ5IAAAAAJ:IWHjjKOFINEC:
-    citations: 18
+    citations: 19
     title: A Survey on Multilingual Mental Disorders Detection from Social Media Data
     year: '2026'
   TQuQ5IAAAAAJ:IjCSPb-OGe4C:
-    citations: 26
+    citations: 27
     title: A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media
     year: '2021'
   TQuQ5IAAAAAJ:KlAtU1dfN6UC:
@@ -62,11 +62,11 @@ papers:
     title: 'UniBuc at SemEval-2024 Task 2: Tailored Prompting with Solar for Clinical NLI'
     year: '2024'
   TQuQ5IAAAAAJ:MXK_kJrjxJIC:
-    citations: 18
+    citations: 19
     title: 'A conversational agent framework for mental health screening: Design, implementation, and usability'
     year: '2025'
   TQuQ5IAAAAAJ:QIV2ME_5wuYC:
-    citations: 26
+    citations: 27
     title: 'On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook'
     year: '2025'
   TQuQ5IAAAAAJ:R3hNpaxXUhUC:
