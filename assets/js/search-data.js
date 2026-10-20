@@ -16,6 +16,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching-amp-supervision",
+          title: "teaching &amp; supervision",
+          description: "Course materials, schedules, and resources for classes taught.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "news-i-successfully-defended-my-phd-thesis-with-the-highest-honors",
           title: '🎓 I successfully defended my PhD thesis with the highest honors!',
           description: "",
@@ -31,7 +45,23 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-happy-to-share-that-we-have-four-papers-accepted-at-lrec-assessing-the-effectiveness-of-llms-in-delivering-cognitive-behavioral-therapy-psihoro-depression-and-anxiety-romanian-text-corpus-the-spectrum-of-sentiment-optimistic-pessimistic-and-neutral-voices-in-online-depression-discourse-and-mental-health-disorder-detection-beyond-social-media-a-systematic-review-of-available-datasets-see-you-in-palma",
           title: '📝 I am happy to share that we have four papers accepted at...',
           description: "",
+          section: "News",},{id: "news-i-gave-an-invited-talk-at-the-second-workshop-on-integrating-nlp-and-psychology-to-study-social-interactions-at-lrec",
+          title: '🎤 I gave an invited talk at the Second Workshop on Integrating NLP...',
+          description: "",
+          section: "News",},{id: "news-i-gave-an-invited-talk-on-understanding-mental-health-through-nlp-insights-from-online-interactions-at-the-milan-workshop-on-computational-methods-for-mental-health-and-well-being",
+          title: '🎤 I gave an invited talk on “Understanding Mental Health through NLP: Insights...',
+          description: "",
+          section: "News",},{id: "news-i-am-honored-to-have-won-the-sepln-2026-best-doctoral-thesis-award-in-natural-language-processing-for-my-phd-thesis",
+          title: '🏆 I am honored to have won the SEPLN 2026 Best Doctoral Thesis...',
+          description: "",
           section: "News",},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/cv-Bucur.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
